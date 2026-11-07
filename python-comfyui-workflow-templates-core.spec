@@ -1,5 +1,5 @@
 Name:		python-comfyui-workflow-templates-core
-Version:	0.3.392
+Version:	0.3.394
 Release:	1
 Summary:	Loader for ComfyUI workflow templates
 License:	MIT
